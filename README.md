@@ -14,7 +14,7 @@ Run [Foundation Customizer](https://github.com/foundation/node-foundation-custom
 
 ## Visit
 
-[http://localhost:3000/sites/download/]()http://localhost:3000/sites/download/
+[http://localhost:3000/sites/download/](http://localhost:3000/sites/download/)
 
 ## Stop
 
